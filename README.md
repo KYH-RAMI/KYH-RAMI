@@ -74,4 +74,4 @@ Sponsorship helps support development tools, lab infrastructure, technical learn
 ## Connect
 
 - GitHub: [@KYH-RAMI](https://github.com/KYH-RAMI)
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/rami-issa-b239623ab/
