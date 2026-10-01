@@ -1,6 +1,6 @@
-# Hi, I'm Rami
+# Hi, I'm Rami!
 
-I'm currently studying **DevSecOps and Software Development at KYH** in Sweden.
+I'm currently studying to become a Software Developer, specializing in DevSecOps, at KYH in Sweden.
 
 My focus is on building a strong foundation in software development while gradually moving deeper into **DevSecOps, security, automation and CI/CD**.
 
