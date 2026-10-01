@@ -1,10 +1,10 @@
 # Hi, I'm Rami!
 
-I'm currently studying to become a Software Developer, specializing in DevSecOps, at KYH in Sweden.
+I'm currently studying to become a **Software Developer, specializing in DevSecOps**, at KYH in Sweden.
 
-My focus is on building a strong foundation in software development while gradually moving deeper into **DevSecOps, security, automation and CI/CD**.
+My focus is on building a strong foundation in software development while progressively developing deeper skills in **DevSecOps, security, automation and CI/CD**.
 
-I use GitHub to document my progress, build practical projects and turn what I learn into increasingly complete applications.
+I use GitHub to document my development journey, build practical projects and apply what I learn to increasingly advanced applications and technical projects.
 
 ---
 
@@ -42,9 +42,9 @@ I use GitHub to document my progress, build practical projects and turn what I l
 
 ## Projects
 
-My public repositories currently document my progression through C# and software development.
+I'm currently building my skills through practical development work while preparing a growing portfolio of public projects.
 
-As my studies progress, this profile will expand from smaller programming exercises into larger projects involving:
+As my studies progress, this profile will expand with projects involving:
 
 - Object-oriented applications
 - Database-backed applications
@@ -57,21 +57,21 @@ As my studies progress, this profile will expand from smaller programming exerci
 
 ## What I'm building toward
 
-My long-term goal is to work with **DevSecOps, security and technical operations**, combining development with automation, infrastructure and secure software practices.
+My long-term goal is to work with **DevSecOps, security and technical operations**, combining software development with automation, infrastructure and secure development practices.
 
-I'm particularly interested in environments where reliability, security and real-world operations matter.
+I'm particularly interested in environments where **security, reliability, automation and real-world operations** are important.
 
 ---
 
 ## GitHub Sponsors
 
-I'm gradually building a public portfolio and plan to share more practical projects and learning resources as my skills develop.
+I'm gradually building a public portfolio and plan to share more practical projects, experiments and learning resources as my skills develop.
 
-Sponsorship helps support development tools, lab infrastructure, technical learning resources and equipment used throughout my studies and future open-source projects.
+Sponsorship helps support the development tools, lab infrastructure, technical resources and equipment that make it possible for me to continue learning, experimenting and building future open-source projects.
 
 ---
 
 ## Connect
 
 - GitHub: [@KYH-RAMI](https://github.com/KYH-RAMI)
-- LinkedIn: https://www.linkedin.com/in/rami-issa-b239623ab/
+- LinkedIn: [linkedin.com/in/rami-issa-b239623ab](https://www.linkedin.com/in/rami-issa-b239623ab/)
